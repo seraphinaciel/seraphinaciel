@@ -4,7 +4,7 @@
 <div align="center">
   <h2>Hi there 👋</h2>
 
-  <h4>I am a Web Designer & Front End.
+  <h4>I am a Web Designer & Front End.<br>
     I LOVE🤞 create challenging, intuitive, beautiful website</h4>
 
 </div>
