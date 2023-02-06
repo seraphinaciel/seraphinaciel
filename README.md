@@ -1,7 +1,7 @@
 
+### Hi there 👋
 
 <div align="center">
-### Hi there 👋
 
 web designer & publisher.
 i create challenging, intuitive, beautiful website
@@ -34,18 +34,22 @@ i create challenging, intuitive, beautiful website
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Adobe Brackets-FF0000?style=flat-square&logo=Adobe&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobe Brackets-0B88CE?style=flat-square&logo=Bookalope&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat-square&logo=Eclipse%20IDE&logoColor=white"/>
 </p>
 
 <h2 align="center">🌱 I’m currently learning</h2>
 <p align="center">
+  <!--
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
   <img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+  -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
+  
 </p>
 
 <h2 align="center">📫 How to reach me</h2>
@@ -61,9 +65,6 @@ i create challenging, intuitive, beautiful website
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seraphinaciel&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
-
-<div align="center">
 
 [![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=seraphinaciel&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/본인ID)
 
