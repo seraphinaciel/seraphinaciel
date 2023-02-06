@@ -2,10 +2,10 @@
 
 
 <div align="center">
-<h2>Hi there 👋</h2>
+  <h2>Hi there 👋</h2>
 
-  <h4>web designer & publisher.
-    i create challenging, intuitive, beautiful website</h4>
+  <h4>I am a Web Designer & Front End.
+    I LOVE🤞 create challenging, intuitive, beautiful website</h4>
 
 </div>
 
