@@ -1,10 +1,11 @@
 
-### Hi there 👋
+
 
 <div align="center">
+<h2>Hi there 👋</h2>
 
-web designer & publisher.
-i create challenging, intuitive, beautiful website
+  <h4>web designer & publisher.
+    i create challenging, intuitive, beautiful website</h4>
 
 </div>
 
