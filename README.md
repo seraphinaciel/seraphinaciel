@@ -72,13 +72,13 @@
 	</p>
 
 	<h2>😄 My Github Status</h2>
-
+</div>
 	[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seraphinaciel&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 
 	[![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=seraphinaciel&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/본인ID)
 
-</div>
+
 
 <!--
 **seraphinaciel/seraphinaciel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
