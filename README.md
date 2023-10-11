@@ -22,7 +22,7 @@
           <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
           <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
           <img src="https://img.shields.io/badge/Pug-A86454?style=flat-square&logo=Pug&logoColor=white"/>
-          <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat-square" alt="React Badge">)
+          <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat-square" alt="React Badge">
         </div>
       </td>
     </tr>
@@ -46,6 +46,8 @@
           <img src="https://img.shields.io/badge/Adobe Brackets-0B88CE?style=flat-square&logo=Bookalope&logoColor=white"/>
           <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
           <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat-square&logo=Eclipse%20IDE&logoColor=white"/>
+          <img src="https://img.shields.io/badge/gulp-CF4647?logo=gulp&logoColor=fff&style=flat" alt="gulp Badge">
+          <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat" alt="Vite Badge">
         </div>
       </td>
     </tr>
@@ -55,12 +57,13 @@
         <div align="center" dir="auto" style="margin: 7px 0 0;">
           <!--
           <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
-          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+          
           <img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
           <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
           <img src="https://img.shields.io/badge/dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
           -->
           <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
         </div>
       </td>
     </tr>
