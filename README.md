@@ -14,7 +14,7 @@
     <tr>
       <td><h3 align="center" style="margin: 0;padding:0;">🤞 Front end(Major)</h3></td>
       <td>
-        <div align="center" dir="auto" style="margin: 7px 0 0;">
+        <div align="" dir="auto" style="margin: 7px 0 0;">
           <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
           <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
           <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
@@ -30,7 +30,7 @@
     <tr>
       <td><h3 align="center" style="margin: 0;">🎨 Design</h3></td>
       <td>
-        <div align="center" dir="auto" style="margin: 7px 0 0;">
+        <div align="" dir="auto" style="margin: 7px 0 0;">
           <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/>
           <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/>          
           <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
@@ -40,7 +40,7 @@
     <tr>
       <td><h3 align="center" style="margin: 0;">🔨 Using Tool</h3></td>
       <td>
-        <div align="center" dir="auto" style="margin: 7px 0 0;">
+        <div align="" dir="auto" style="margin: 7px 0 0;">
           <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
           <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
           <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
@@ -55,7 +55,7 @@
     <tr>
       <td><h3 align="center" style="margin: 0;">🌱 I’m currently learning</h3></td>
       <td>
-        <div align="center" dir="auto" style="margin: 7px 0 0;">
+        <div align="" dir="auto" style="margin: 7px 0 0;">
           <!--
           <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>          
           <img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
