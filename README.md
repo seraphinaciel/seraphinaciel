@@ -12,7 +12,7 @@
 <table align="center">
   <tbody>
     <tr>
-      <td><h3 align="center" style="margin: 0;padding:0;">🤞 Front end(Major)</h3></td>
+      <td><p align="center" >🤞 Front end(Major)</p></td>
       <td>
         <div align="" dir="auto" style="margin: 7px 0 0;">
           <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
