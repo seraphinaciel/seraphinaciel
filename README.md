@@ -9,7 +9,7 @@
 
 <h2 align="center">🔨 Tech Stack </h2>
 
-<table align="center">
+<table align="center" style="padding:10px">
   <tbody>
     <tr>
       <td align="center"><strong>🤞 Front end(Major)</strong></td>
