@@ -27,6 +27,22 @@
         </div>
       </td>
     </tr>
+     <tr>
+      <td align="center"><strong>🔨 Using Tool</strong></td>
+      <td>
+        <div align="" dir="auto" >
+          <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Adobe Brackets-0B88CE?style=flat-square&logo=Bookalope&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat-square&logo=Eclipse%20IDE&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Gulp-CF4647?logo=gulp&logoColor=fff&style=flat" alt="Gulp Badge">
+          <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat" alt="Vite Badge">
+          <img src="https://img.shields.io/badge/Astro-646CFF?logo=astro&logoColor=fff&style=flat" alt="Astro Badge">
+        </div>
+      </td>
+    </tr>
     <tr>
       <td align="center"><strong>🎨 Design</strong></td>
       <td>
@@ -37,21 +53,7 @@
         </div>
       </td>
     </tr>
-    <tr>
-      <td align="center"><strong>🔨 Using Tool</strong></td>
-      <td>
-        <div align="" dir="auto" >
-          <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Adobe Brackets-0B88CE?style=flat-square&logo=Bookalope&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat-square&logo=Eclipse%20IDE&logoColor=white"/>
-          <img src="https://img.shields.io/badge/gulp-CF4647?logo=gulp&logoColor=fff&style=flat" alt="gulp Badge">
-          <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat" alt="Vite Badge">
-        </div>
-      </td>
-    </tr>
+   
     <tr>
       <td align="center"><strong>🌱 I’m currently learning</strong></td>
       <td>
