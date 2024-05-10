@@ -39,7 +39,6 @@
           <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat-square&logo=Eclipse%20IDE&logoColor=white"/>
           <img src="https://img.shields.io/badge/Gulp-CF4647?logo=gulp&logoColor=fff&style=flat" alt="Gulp Badge">
           <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat" alt="Vite Badge">
-          <img src="https://img.shields.io/badge/Astro-646CFF?logo=astro&logoColor=fff&style=flat" alt="Astro Badge">
         </div>
       </td>
     </tr>
@@ -53,7 +52,6 @@
         </div>
       </td>
     </tr>
-   
     <tr>
       <td align="center"><strong>🌱 I’m currently learning</strong></td>
       <td>
@@ -72,7 +70,6 @@
   </tbody>
 </table>
 
-
 <h2 align="center">📫 How to reach me</h2>
 
 <p align="center">
@@ -85,7 +82,6 @@
 <div align="center">
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seraphinaciel&theme=react)](https://github.com/anuraghazra/github-readme-stats)-->
-
 
 [![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=seraphinaciel&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/본인ID)
 
