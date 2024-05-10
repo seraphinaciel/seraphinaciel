@@ -39,6 +39,7 @@
           <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat-square&logo=Eclipse%20IDE&logoColor=white"/>
           <img src="https://img.shields.io/badge/Gulp-CF4647?logo=gulp&logoColor=fff&style=flat" alt="Gulp Badge">
           <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat" alt="Vite Badge">
+          <img src="https://img.shields.io/badge/Astro-3d50f5?logo=astro&logoColor=fff&style=flat" alt="Astro Badge">
         </div>
       </td>
     </tr>
